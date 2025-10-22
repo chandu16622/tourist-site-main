@@ -156,7 +156,7 @@ function LandingPage() {
       <section
         id="places"
         className="py-5"
-        style={{ background: "linear-gradient(to bottom, #b2ebf2, #80deea)" }}
+        style={{ background: "linear-gradient(to bottom, #c2e7ecff, #80deea)" }}
       >
         <Container>
           <h2 className="text-center fw-bold mb-5" style={{ color: "#904d40" }}>
